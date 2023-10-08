@@ -1,11 +1,16 @@
 import './App.css';
+import FirstDiv from './Components/FirstDiv';
 import Navbar from './Components/Navbar';
+import Train from './Components/Train'
+
 
 function App() {
   return (
     <div>
-      <>fg</>
+      
       <Navbar/>
+      <FirstDiv/>
+      <Train/>
     </div>
   );
 }

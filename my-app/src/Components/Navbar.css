@@ -1,0 +1,47 @@
+p{
+    width: 100px;
+   padding: ;
+    text-align: center;
+
+
+
+}
+.btn {
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+    padding: 10px 0;
+}
+
+.navbar1{
+    color: #E7F6F2;
+    width: fit-content;
+    display: flex;
+
+}
+.navbar2{
+    
+    width: fit-content;
+    display: flex;
+    color: #E7F6F2;
+}
+.navbar{
+    padding-top: 20px;
+    display: flex;
+    justify-content:space-between;
+
+}
+/* .Dribble{
+    font-size: 1.5rem;
+    width:130px;
+    color: #E7F6F2;
+} */
+.round1{
+    
+    border-radius: 30px;
+    background-color: #005264;
+    padding: 10px 0 ;
+}
+.btn:hover{
+    color:#90bcc6fa ;
+}
