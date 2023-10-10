@@ -5,16 +5,16 @@ function Navbar() {
   return (
 <div className='navbar' >
   <div className='navbar1'>
-    <p className='Dribble '>Dribble</p>
-    <p className='btn'> Find talent</p>
-    <p className='btn'> For designers</p>
-    <p className='btn'> Inspiration</p>
-    <p className='btn'> Learn design</p>
-    <p className='btn'> Go Pro</p>
+    <p className='Dribble pnavbar '>Dribble</p>
+    <p className='btn pnavbar'> Find talent</p>
+    <p className='btn pnavbar'> For designers</p>
+    <p className='btn pnavbar'> Inspiration</p>
+    <p className='btn pnavbar'> Learn design</p>
+    <p className='btn pnavbar'> Go Pro</p>
     </div>
     <div className='navbar2'>
-      <p className='btn'>Login</p>
-      <p className='btn round1'>Sign up</p>
+      <p className='btn pnavbar'>Login</p>
+      <p className='btn round1 pnavbar'>Sign up</p>
 
     </div>
 

@@ -2,13 +2,48 @@
     display: flex;
     flex-direction: column;
     border-radius: 28px;
-    border: 1px solid red;
+   
     
-    width: 200px;
-    height: 300px;
-    margin: 10px;
+    width: 270px;
+    height: 350px;
+    margin: 23px;
+    background-size:cover;
+    opacity: 1;
 
+    
+    
+
+}
+.ptrain{
+    font-size: 1.1rem;
+    margin: 3px 17px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px #000000;
 }
 .train{
     display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.firstp{
+    margin-top: 250px;
+}
+.industries{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    text-shadow: 2px 2px 4px #000000;
+    
+    
+}
+.pindustries{
+    
+    width: fit-content;
+    margin:  10px;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 4px 10px;
+    font-size: 1.1rem;
+
 }
